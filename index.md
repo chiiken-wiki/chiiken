@@ -15,6 +15,4 @@
 * [全国高校生地方鉄道交流会-報告](archive/chitetsukouryu.md)
 
 
-
-
 ©︎地域研究部 2023
