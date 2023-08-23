@@ -1,5 +1,3 @@
-<link rel=”icon” href=“/image/favicon.ico”>
-
 ## トップページ
 ### このWebページについて
 これは地域研究部のドキュメントです。
