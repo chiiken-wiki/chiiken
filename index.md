@@ -6,9 +6,9 @@
 掲載しています。
 
 ## サイトマップ
-[地域研究部について](about/chiiken-about.md)
-[部員向けルール](about/rule.md)
-[桜和祭概要](event/ouwa-about.md)
-[地域研究部桜和祭展示](event/ouwa-tenzi.md)
-[地域研究部桜和祭企画](event/ouwa-kikaku.md)
-[全国高校生地方鉄道交流会-報告](archive/chitetsukouryu.md)
+[地域研究部について]()
+[部員向けルール]()
+[桜和祭概要]()
+[地域研究部桜和祭展示]()
+[地域研究部桜和祭企画]()
+[全国高校生地方鉄道交流会-報告]()
