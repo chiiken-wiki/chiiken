@@ -13,3 +13,8 @@
 * [地域研究部桜和祭展示](event/ouwa-tenzi.md)
 * [地域研究部桜和祭企画](event/ouwa-kikaku.md)
 * [全国高校生地方鉄道交流会-報告](archive/chitetsukouryu.md)
+
+
+
+
+©︎地域研究部 2023
