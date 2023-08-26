@@ -8,9 +8,9 @@
 ### 銚子電鉄100周年の軌跡展示
 <p>準備中</p>
 
- ### 国府台赤れんが展示
- <p>市民団体「赤れんがを生かす会」のパネルを使用した展示です。</p>
+### 国府台赤れんが展示
+<p>市民団体「赤れんがを生かす会」のパネルを使用した展示です。</p>
 
- [赤れんがを生かす会HP](https://ichibun.net/akarenga/index.php?QBlog)
+[赤れんがを生かす会HP](https://ichibun.net/akarenga/index.php?QBlog)
 
  
